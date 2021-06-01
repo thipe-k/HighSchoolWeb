@@ -1,0 +1,2 @@
+# HighSchoolWeb
+School Website Protoype
